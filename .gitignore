@@ -15,6 +15,9 @@ examples/*/x64/*
 bin/
 bin-int/
 
+## Makefile artifacts
+Makefile
+
 ## Visual Studio artifacts
 .vs
 ipch
